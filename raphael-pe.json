@@ -1,5 +1,5 @@
 {
-  "error": true,
+  "error": ,
   "maintainers": [
     {
       "main_maintainer": true,
@@ -11,10 +11,10 @@
   "website_url": "https://qkivan.ink",
   "news_url": "https://t.me/qkivan_rom",
   "datetime": ,
-  "filename": "PixelExperience_Plus_raphael-12.1-20221001-0543-UNOFFICIAL_DOTQS.zip",
+  "filename": "PixelExperience_Plus_raphael-12.1-20221001-1810-UNOFFICIAL.zip",
   "id": "",
-  "size": 1118964782,
-  "url":"https://sourceforge.net/projects/qkivanrom/files/raphael/Android12/PixelExperiencePlus/PixelExperience_Plus_raphael-12.1-20221001-0543-UNOFFICIAL_DOTQS.zip/download",
+  "size": ,
+  "url":"https://sourceforge.net/projects/qkivanrom/files/raphael/Android12/PixelExperiencePlus/PixelExperience_Plus_raphael-12.1-20221001-1810-UNOFFICIAL.zip/download",
   "version": "12.1",
   "filehash": ""
 }

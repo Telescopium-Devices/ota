@@ -1,20 +1,20 @@
+
 {
-  "error": true,
-  "maintainers": [
-    {
-      "main_maintainer": true,
-      "github_username": "chingsky-liu",
-      "name": "QKIvan"
-    }
-  ],
-  "donate_url": "https://t.me/QKIvan",
-  "website_url": "https://www.qkivan.ink",
-  "news_url": "https://t.me/qkivan_rom",
-  "datetime": 1667673023,
-  "filename": "PixelExperience_raphael-13.0-20221105-1836-UNOFFICIAL.zip",
-  "id": "",
-  "size": ,
-  "url":"https://sourceforge.net/projects/qkivan-releases/files/raphael/PixelExperience/PixelExperience_raphael-13.0-20221105-1836-UNOFFICIAL.zip/download",
-  "version": "13",
-  "filehash": "18b79d15a4c340c19151e7ec54ccd6e9"
+	"error": false,
+	"version": "thirteen",
+	"filename": "PixelExperience_raphael-13.0-20221105-1836-UNOFFICIAL",
+	"datetime": 1662792360,
+	"size": 1925471266,
+	"url": "https:\/\/master.dl.sourceforge.net\/project\/qkivan-releases\/raphael\/PixelExperience\/PixelExperience_raphael-13.0-20221105-1836-UNOFFICIAL.zip?viasf=1",
+	"filehash": "18b79d15a4c340c19151e7ec54ccd6e9",
+	"id": "",
+	"maintainers": [{
+		"main_maintainer": false,
+		"github_username": "chingsky-liu",
+		"name": "QKIvan"
+	}],
+	"donate_url": "https:\/\/bit.ly\/pixelexperiencedonate",
+	"website_url": "https:\/\/download.pixelexperience.org",
+	"news_url": "https:\/\/t.me\/PixelExperience",
+	"forum_url": ""
 }

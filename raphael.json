@@ -1,12 +1,11 @@
-
 {
 	"error": false,
-	"version": "thirteen-plus",
-	"filename": "PixelExperience_Plus_raphael-13.0-20221111-0403-UNOFFICIAL.zip",
-	"datetime": 1668139389,
-	"size": ,
-	"url": "https:\/\/master.dl.sourceforge.net\/project\/qkivan-releases\/raphael\/PixelExperience\/PixelExperience_Plus_raphael-13.0-20221111-0403-UNOFFICIAL.zip?viasf=1",
-	"filehash": "ec0877566ff57fb799e4e406d2494e51",
+	"version": "Telescopium",
+	"filename": "Project-Telescopium-13.0.4-HotFix_raphael-20221224-0940.zip",
+	"datetime": 1671874819,
+	"size": 1988902646,
+	"url": "https:\/\/master.dl.sourceforge.net\/project\/qkivan-releases\/raphael\/Project-Telescopium\/Project-Telescopium-13.0.4-HotFix_raphael-20221224-0940.zip?viasf=1",
+	"filehash": "cb79a71a2274fe912fc07c40509e543a",
 	"id": "",
 	"maintainers": [{
 		"main_maintainer": false,
@@ -14,7 +13,7 @@
 		"name": "QKIvan"
 	}],
 	"donate_url": "https:\/\/afdian.net\/@qkivan",
-	"website_url": "https:\/\/download.qkivan.ink",
-	"news_url": "https:\/\/t.me\/qkivan_rom",
+	"website_url": "https:\/\/cloud.qkivan.ink",
+	"news_url": "https:\/\/www.qkivan.ink",
 	"forum_url": ""
 }
